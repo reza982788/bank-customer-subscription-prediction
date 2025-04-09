@@ -10,6 +10,16 @@ The project aims to help Banco de Portugal optimize its marketing campaigns for 
 
 The dataset used in this project is the "Bank Marketing" dataset from the UCI Machine Learning Repository. It contains information about direct marketing campaigns of a Portuguese banking institution.
 
+### Data Sources and Links
+- **Primary Dataset Source**: [UCI Machine Learning Repository - Bank Marketing Dataset](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+- **Dataset Files**:
+  - `bank-full.csv`: Main dataset file containing all records
+  - `bank.csv`: Smaller version of the dataset (10% of the records)
+  - `bank-names.txt`: Dataset description and attribute information
+
+### Dataset Description
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+
 ### Features
 
 The dataset includes the following features:
