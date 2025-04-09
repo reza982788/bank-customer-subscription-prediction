@@ -14,6 +14,12 @@ The dataset used in this analysis is the "Bank Marketing" dataset from UCI Machi
 - Contains 17 columns (16 features + 1 target variable)
 - 45,211 records
 
+### Download Instructions
+1. Visit the UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/222/bank+marketing
+2. Download the dataset
+3. Extract the zip file
+4. Place the `bank-full.csv` file in the same directory as the notebooks
+
 ### Features
 - age: Age of the customer
 - job: Type of job (categorical)
